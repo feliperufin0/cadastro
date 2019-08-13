@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+/* início do menu */
+.base{
+	width: 300px;
+	margin-top: 70px;
+
+
+}
+.btn{
+	float:right;
+	margin-top: 18px;
+}
+h4{
+	padding-bottom: 30px;
+	text-align: center;
+	font-family: 'Oswald';
+	font-style: 70px; 
+}
+.base2{
+	width: 300px;
+	margin-top: 90px;
+}
+.base2 a{
+	margin-top: 0px;
+	margin-right: 50px;
+} 
